@@ -1,25 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>SKLP, ICT, CAS</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>State Key Laboratory of Processors (SKLP), Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: liangshengwen_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Dr. Shengwen Liang is currently an associate professor in State Key Laboratory of Processors (SKLP), Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). His research interest includes domain specific storage device and system design, hardware accelerator design for intelligent applications, and disruptive technology for chip design. He has published over 20 papers at leading conferences and journals, including ISCA, MICRO, HPCA, ATC, DAC, and IEEE TC. Among his awards are the Best Paper Award at the IEEE Transactions on Computers (2021) and the IEEE Asian Test Symposium (2023), the Huawei Olympus Pioneer Award (2024), and the third prize of FPGA track in Low-Power Computer Vision Challenge (2020).
