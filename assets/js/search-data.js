@@ -396,16 +396,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+    },{id: "news-our-work-neuvsa-a-unified-and-efficient-architecture-for-neural-vector-search-is-accepted-by-hpca-2025-congratulations-to-ziming-yuan",
+          title: 'Our work NeuVSA, a unified and efficient architecture for neural vector search, is...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
